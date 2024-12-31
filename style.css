@@ -77,9 +77,10 @@
     background: -webkit-radial-gradient(center center, farthest-side , #9993, transparent);
   }
   
- #music-container {
+#music-container {
     position: absolute;
-    top: 0;
+    bottom: 0;
+    width: 100%;
     left: 0;
   }
 
